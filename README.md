@@ -22,7 +22,5 @@ Run commands
 
 3) ```yarn run dev```
 
+## you may need also to download the requirements
 
-### If you see the window below then you are set to build AMAZON 2.0!
-
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
